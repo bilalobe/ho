@@ -1,5 +1,5 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 17px;
     max-width: 960px;
     margin: auto;
@@ -24,7 +24,7 @@ h3 {
 } main {
     display: grid;
     grid-template-columns: 66% 33%;
-    margin-top: 3em;
+    margin-top: 4em;
 }
 
 #mainLeft {
